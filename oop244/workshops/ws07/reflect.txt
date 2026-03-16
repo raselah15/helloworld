@@ -1,0 +1,18 @@
+In this workshop I learned how to use inheritance in C++ by creating a derived
+class called Professor from the base class Employee. The derived class inherits
+the attributes and behaviors of the Employee class and adds additional
+information such as subject name and number of sections.
+
+I also learned how to override functions from the base class and how to access
+the base class implementation when necessary. Another important concept was
+dynamic memory allocation using C-style strings. The subject name was stored
+using dynamically allocated memory, so I had to make sure that memory was
+properly deleted in the destructor to avoid memory leaks.
+
+Additionally, I practiced overloading input and output operators so that objects
+can be easily read from input streams and printed using standard stream
+operators. Formatting output using manipulators like setw, setprecision,
+left and right alignment was also important to match the required output.
+
+This workshop helped me better understand object-oriented programming concepts
+such as inheritance, operator overloading, and dynamic memory management.
