@@ -4,7 +4,7 @@ var app = express();
 
 var HTTP_PORT = process.env.PORT || 8080;
 
-// Root Route
+// Home Route
 app.get("/", (req, res) => {
     res.send(`
         <h1>Hello World!</h1>
